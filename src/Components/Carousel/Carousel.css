@@ -1,0 +1,41 @@
+.box{
+    border: 1px solid rgba(0, 0, 0, 1.0);
+}
+
+.options{
+    position: relative;
+    left: 37%;
+    margin: 2rem;
+}
+
+.options>button{
+    margin-left: 2rem;
+    font-size: 1.2rem;
+}
+
+.top{
+    display: flex;
+}
+
+.left-icon,.right-icon{
+    position: relative;
+    top: 15rem;
+    font-size: 2rem;
+}
+.right-icon>button{
+    padding: 0.8rem;
+}
+.left-icon>button{
+    padding: 0.8rem;
+}
+
+
+
+.left-icon{
+    position: relative;
+    left: 18rem;
+}
+.right-icon{
+    position: relative;
+    right: 18rem;
+}
